@@ -4,7 +4,7 @@
 
 This repository is provided alongside an exploratory notebook on how deep residual networks relate to neural ordinary differential equations. The central thread is geometric: a ResNet with a given step size is treated as a forward Euler discretization of continuous dynamics. When depth is pushed to the limit, a neural ODE is obtained.
 
-## What you will find
+## Notebook Structure
 
 The notebook `code.ipynb` is organized into four movements.
 
