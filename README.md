@@ -18,7 +18,7 @@ Fourth, the continuous-time limit is explored: ResNet updates are cast as an ODE
 
 ## Running the notebook
 
-Python 3 with PyTorch, NumPy, Matplotlib, scikit-learn, and torchvision (for MNIST) is required. `code.ipynb` should be opened in Jupyter and all cells run from top to bottom. CUDA is selected automatically when available.
+Python 3 with PyTorch, NumPy, Matplotlib, scikit-learn, and torchvision (for MNIST) is required. CUDA is selected automatically when available.
 
 ## Main takeaway
 
